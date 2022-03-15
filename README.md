@@ -1,4 +1,4 @@
-# Hi there, I'm Naveen Shankar -  FullStack Web Developer 👋 
+# Hi there, I'm Naveen Shankar -   Full-stack web developer 👋 
 
 
 - 🌱 I’m currently learning everything 🤣

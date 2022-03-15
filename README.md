@@ -43,4 +43,5 @@ As a web developer, I enjoy using my obsessive attention to detail, my unequivoc
 
 </details>
 
-
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr

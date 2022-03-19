@@ -19,6 +19,7 @@ As a web developer, I enjoy using my obsessive attention to detail, my unequivoc
 [![website](./img/instagram-light.svg)](https://instagram.com/bm_navins#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/bm_navins#gh-dark-mode-only)
 
+![slim-jim-_dribbble_-_800x600_](https://user-images.githubusercontent.com/96060729/159132934-a7c52ec7-04b1-4b37-b4eb-94896860cc10.gif)
 
 
 ### Languages and Tools:

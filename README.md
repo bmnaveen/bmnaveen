@@ -9,8 +9,8 @@ As a web developer, I enjoy using my obsessive attention to detail, my unequivoc
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2022 Goals: Learn more about web developing
 - ⚡ Fun fact: I love to draw and play cricket
-- 
-![developer-dribbble](https://user-images.githubusercontent.com/96060729/159133031-2087b3aa-e090-4881-ab61-57789f039168.gif)
+
+<img src="./img/coding (1).gif" width="100%" height="500"/>
 
 
 

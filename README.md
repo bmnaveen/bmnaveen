@@ -10,7 +10,7 @@ As a web developer, I enjoy using my obsessive attention to detail, my unequivoc
 - 🥅 2022 Goals: Learn more about web developing
 - ⚡ Fun fact: I love to draw and play cricket
 
-<img src="./img/coding (1).gif" width="100%" height="500"/>
+<img src="./img/coding.gif" width="100%" height="500"/>
 
 
 

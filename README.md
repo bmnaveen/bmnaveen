@@ -18,8 +18,7 @@ As a web developer, I enjoy using my obsessive attention to detail, my unequivoc
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/bm_navins#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/bm_navins#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/447-4477875_mail-clip-art.png)](https://naveens.jbm@gmail.com)
+
 
 
 ### Languages and Tools:
@@ -48,5 +47,5 @@ As a web developer, I enjoy using my obsessive attention to detail, my unequivoc
 
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[gmail]: https://naveens.jbm@gmail.com
+
 
